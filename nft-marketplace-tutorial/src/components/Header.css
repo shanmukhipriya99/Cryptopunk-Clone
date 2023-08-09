@@ -24,6 +24,14 @@
   border-radius: 50px;
 }
 
+/* :focus-within to target the searchContainer 
+when any element inside it (like the input field) is focused.  */
+
+.searchContainer:hover,
+.searchContainer:focus-within {
+  border: 2px solid #bbc3d4;
+}
+
 .searchIcon {
   margin: 10px;
 }
@@ -35,4 +43,19 @@
   outline: none;
   color: #eee;
   font-size: 16px;
+}
+
+.headerItems ul {
+  display: flex;
+  color: #a1a5b0;
+}
+
+.headerItems ul li {
+  list-style-type: none;
+  cursor: pointer;
+  margin: 0 10px;
+}
+
+.headerItems ul li:hover {
+  color: #ecf1fd;
 }

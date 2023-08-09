@@ -18,6 +18,13 @@ const Header = () => {
           placeholder='Collection, User or Item...'
         />
       </div>
+      <div className='headerItems'>
+        <ul>
+          <li>Drops</li>
+          <li>Marketplace</li>
+          <li>Create</li>
+        </ul>
+      </div>
     </div>
   );
 };
