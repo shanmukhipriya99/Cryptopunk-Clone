@@ -2,8 +2,36 @@
   color: #fff;
   height: 100px;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header > div {
+  margin: 10px;
 }
 
 .punkLogo {
-    width: 200px;
+  width: 200px;
+}
+
+.searchContainer {
+  background-color: #1c1c1e;
+  height: 50px;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  border: 2px solid #2a2a2a;
+  border-radius: 50px;
+}
+
+.searchIcon {
+  margin: 10px;
+}
+
+.searchInput {
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: #eee;
 }
