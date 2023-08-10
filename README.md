@@ -28,8 +28,7 @@ In this application we build a modern **Cryptopunks** clone with React Js & Web 
 
 Creating an NFT collection on Thirdweb allows us to view the collection on Opensea. The wallet address used to mint the collection on Thirdweb would own the collection.
 
-[https://testnets.opensea.io/collection/modern-crypto-punks-v2
-](https://testnets.opensea.io/collection/cryptopunks-49)
+[https://testnets.opensea.io/collection/cryptopunks-49](https://testnets.opensea.io/collection/cryptopunks-49)
 
 ## Getting Started
 
