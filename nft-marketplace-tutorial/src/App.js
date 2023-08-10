@@ -14,7 +14,6 @@ function App() {
       'https://testnets-api.opensea.io/api/v1/assets?asset_contract_address=0xb1bb5732D99C458222302faCB4cD7F925d79A073&order_direction=asc&offset=0'
     );
     setPunkListData(openSeaData.data.assets);
-    console.log(openSeaData.data.assets[0].creator.address);
   };
 
   useEffect(() => {
