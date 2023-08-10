@@ -1,4 +1,4 @@
-## Modern Cryptopunks NFT Clone
+# Modern Cryptopunks NFT Clone
 
 In this application we build a modern **Cryptopunks** clone with React Js & Web 3.0.<br>
 
@@ -30,3 +30,14 @@ Creating an NFT collection on Thirdweb allows us to view the collection on Opens
 
 [https://testnets.opensea.io/collection/modern-crypto-punks-v2
 ](https://testnets.opensea.io/collection/cryptopunks-49)
+
+## Getting Started
+
+In the project directory, you can run:
+
+### `npm i`
+### `npm start`
+
+It runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
